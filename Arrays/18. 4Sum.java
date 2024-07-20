@@ -7,7 +7,7 @@ class Solution {
         // Usage of hashing TC:O(n^3) SC:O(n)
 
         // Using sorting and two pinters 
-        // TC: O(n^2) SC: O(1)
+        // TC: O(n^2 * n) SC: O(1)
 
         Arrays.sort(nums);
 
